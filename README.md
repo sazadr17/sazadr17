@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Linux System Administrator** with **2 years** of hands-on experience in building resilient, automated, and cloud-native infrastructure. I live in the terminal and thrive in environments where uptime is everything and automation is king.
+I'm a **Senior Engineer** with **2 years** of hands-on experience in building resilient, automated, and cloud-native infrastructure. I live in the terminal and thrive in environments where uptime is everything and automation is king.
 
 - 🔧 I keep servers alive so you don't have to worry about them
 - ☁️ Cloud-native thinker — AWS & Azure DevOps are my playground
